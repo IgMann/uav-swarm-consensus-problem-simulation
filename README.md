@@ -3,8 +3,6 @@
 This project explores the vertical alignment of Unmanned Aerial Vehicles (UAVs) using various consensus protocols and interaction topologies. The primary objective is to study how different strategies impact the convergence of UAV heights to a common value over time. Project is made as part of a master's studies in the AI ​​& ML master's program at the University of Novi Sad.
 
 ## Table of Contents
-- [UAV Swarm Vertical Alignment Consensus Simulation](#uav-swarm-vertical-alignment-consensus-simulation)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Theoretical Background](#theoretical-background)
     - [Consensus Algorithms](#consensus-algorithms)
@@ -93,4 +91,4 @@ In each iteration, UAVs update their heights according to the specified protocol
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
